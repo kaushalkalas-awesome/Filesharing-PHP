@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-placeholder-image-url" alt="FileForge - File Sharing System" width="100%">
+  <img src="https://github.com/user-attachments/assets/a7b5239b-e9e0-4ef7-b3a2-532ba1d7a3a1" alt="FileForge - File Sharing System" width="100%">
 </p>
 
 <h1 align="center">📁 FileForge – File Sharing System</h1>
